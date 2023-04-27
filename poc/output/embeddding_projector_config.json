@@ -1,0 +1,22 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Parallel100",
+      "tensorShape": [
+        100,
+        512
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/nadare881/voice-changer-vector-search/main/poc/output/jvs_parallel100_emb.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/nadare881/voice-changer-vector-search/main/poc/output/jvs_speaker_meta.tsv"
+    },
+    {
+      "tensorName": "Nonpara30",
+      "tensorShape": [
+        100,
+        512
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/nadare881/voice-changer-vector-search/main/poc/output/jvs_nonpara30_emb.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/nadare881/voice-changer-vector-search/main/poc/output/jvs_speaker_meta.tsv"
+    }
+  ]
+}

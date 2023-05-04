@@ -1,2 +1,2 @@
-display_name	distribution_type	url	voice_sample	thumbnail
-あみたろのITAコーパス読み上げ音声	voice	https://amitaro.net/voice/corpus-list/ita/	https://www.youtube.com/embed/ksKu6JyLP5I	https://amitaro.net/wp-content/uploads/cfc421fa043881e8a70485cbf9c04b39-150x150.png
+voice_id,display_name,distribution_type,url,voice_sample,thumbnail,speaker,actor,corpus,language,voice_gender,provider,register,credit,license_type,license_url,terms_link,commercial_use,price,twitter,ex_url_1
+0,あみたろのITAコーパス読み上げ音声,voice,https://amitaro.net/voice/corpus-list/ita/,https://www.youtube.com/embed/ksKu6JyLP5I,https://amitaro.net/wp-content/uploads/cfc421fa043881e8a70485cbf9c04b39-150x150.png,あみたろ,あみたろ,ITA,ja,female,あみたろの声素材工房,nadare,あみたろの声素材工房,original,https://amitaro.net/voice/corpus-list/ita/,https://amitaro.net/voice/voice_rule/,True,0,https://twitter.com/amitaro_utau,https://amitaro.net/

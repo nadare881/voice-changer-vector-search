@@ -1,0 +1,31 @@
+display:
+  display_name:
+  distribution_type:
+  url:
+  voice_sample:
+  thumbnail:
+voice_info:
+  speaker:
+  actor:
+  corpus:
+  language:
+  voice_gender:
+license:
+  provider:
+  register:
+  credit:
+  license_type:
+  license_url:
+  terms_link:
+  commercial_use:
+  price:
+model_info:
+  model_type:
+  base_model:
+  training_client:
+  input_voice: 
+link:
+  twitter:
+  ex_url_1:
+  ex_url_2:
+  ex_url_3:

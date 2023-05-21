@@ -1,4 +1,4 @@
-# voice-changer-vector-search (Ver 0.1.1)
+# voice-changer-vector-search (Ver 0.1.2)
 本リポジトリはボイスチェンジャーの変換結果を比較し、類似した音声のデータセットや学習済みモデルを検索するためのリポジトリです。
 
 現在はα版で、今後データベースの列名等は追加・削除する可能性があります。。
@@ -8,6 +8,11 @@
 話者情報をembeddingに変換し、メタ情報と共に管理することで音声のベクトル検索をサポートします。
 
 ## changelog
+
+### ver 0.1.2
+登録しているデータ一覧をhtmlで見れるようにしました。
+下記のページよりhtml形式の表で確認することができます。
+https://nadare881.github.io/voice-changer-vector-search/data/meta_display.html
 
 ### ver 0.1.1
 [VOICEVOX](https://voicevox.hiroshiba.jp/)と[SHAREVOX](https://www.sharevox.app/)の読み上げ音声のデータを追加しました。
